@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/opencv/opencv_contrib
+HostUrl=https://codeload.github.com/opencv/opencv_contrib/zip/refs/heads/4.x
